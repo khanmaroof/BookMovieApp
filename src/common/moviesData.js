@@ -1,7 +1,7 @@
 let moviesData = [
     {
         id: "M1",
-        title: "The Yashfather",
+        title: "The Godfather",
         storyline: "A chilling portrait of the Corleone family's rise and near fall from power in America along with balancing the story of the Sicilian clan's ugly crime business in which they are engaged.",
         genres: [
             "Crime",
@@ -38,7 +38,7 @@ let moviesData = [
     },
     {
         id: "M2",
-        title: "The Dark Anurag",
+        title: "The Dark Knight",
         storyline: "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
         genres: [
             "Action",
