@@ -1,0 +1,17 @@
+div.a{
+    background-color: #ff9999;
+    padding: 8px;
+    text-align: center;
+    font-size: 1rem;
+}
+.flex-container{
+    width: 100%;
+    display: flex;
+}
+.left{
+    width: 76%;
+    
+}
+.right{
+    width: 24%;
+}

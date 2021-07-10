@@ -1,0 +1,43 @@
+.detailpage{
+    display: flex;
+    width: 100%;
+}
+.detailleft{
+    width: 20%;
+
+}
+.detailmiddle{
+    width: 60%;
+}
+.detailright{
+    width: 20%;
+}
+.trailer{
+    margin-top: 16px;
+}
+
+
+
+.yellow {
+    color: yellow;
+    cursor: pointer;
+}
+
+@media (max-width: 992px) {
+    .leftDetails {
+        width: 100%;
+        text-align: center;
+    }
+    .middleDetails {
+        width: 90%;
+    }
+    .rightDetails {
+        width: 100%;
+    }
+    .flex-containerDetails {
+        flex-direction: column;
+    }
+    .paddingRight {
+        margin-right: 32px;
+    }
+}
